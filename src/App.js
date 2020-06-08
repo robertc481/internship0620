@@ -1,25 +1,35 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState, useEffect } from 'react';
 import './App.css';
+import Table from './components/Table/Table';
+import fetchData from './utilities/fetchData';
+import SelectedCompany from './components/SelectedCompany/SelectedCompany';
 
 function App() {
+
+  const [companiesData, setCompaniesData] = useState([]);
+  const [loaded, setLoaded] = useState(false);
+  const [selectedCompany, setSelectedCompany] = useState({});
+
+  useEffect(() => {
+    const getData = async () => await fetchData().then(data => { setCompaniesData(data); setLoaded(true) })
+
+    getData()
+  }, [])
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <main className="App">
+
+      <Table loaded={loaded} companiesData={companiesData} setSelectedCompany={setSelectedCompany} />
+
+      {
+        selectedCompany.id
+        &&
+        <SelectedCompany
+          selectedCompany={selectedCompany}
+          setSelectedCompany={setSelectedCompany}
+        />
+      }
+    </main>
   );
 }
 
