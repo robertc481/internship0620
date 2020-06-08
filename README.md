@@ -18,7 +18,7 @@ Also You can find there two input to modify range of dates used to calculate it'
 
 
 ## Installation
-# If You want to clone files and work on them, it will require NPM.
+### If You want to clone files and work on them, it will require NPM.
 After cloning/downloading files You need to install all required packages. You can simply get them by typing in <b>terminal</b> at files directory :
 
 >npm install
