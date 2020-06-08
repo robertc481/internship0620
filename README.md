@@ -3,7 +3,7 @@ Available live at : https://robertc481.github.io/internship0620/
 Project made with using : 
 - React ,
 - Styled-components,
-![Screenshot from frist screen after entering on page](https://photos.google.com/photo/AF1QipOkXiOhxSX-0F4FVUjJpcQuLgaCaanjKVtcD2l4)
+![Screenshot from frist screen after entering on page](https://photos.app.goo.gl/nr4zdxmXYXGBSf9s6)
 ## Description
 
 This App fetches data from API and displays them in table. 
