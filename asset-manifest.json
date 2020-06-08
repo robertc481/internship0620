@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/internship0620/static/css/main.7965e947.chunk.css",
-    "main.js": "/internship0620/static/js/main.2210e61d.chunk.js",
-    "main.js.map": "/internship0620/static/js/main.2210e61d.chunk.js.map",
+    "main.js": "/internship0620/static/js/main.2ffcf19e.chunk.js",
+    "main.js.map": "/internship0620/static/js/main.2ffcf19e.chunk.js.map",
     "runtime-main.js": "/internship0620/static/js/runtime-main.3f1c3f9b.js",
     "runtime-main.js.map": "/internship0620/static/js/runtime-main.3f1c3f9b.js.map",
     "static/js/2.fbb578b9.chunk.js": "/internship0620/static/js/2.fbb578b9.chunk.js",
     "static/js/2.fbb578b9.chunk.js.map": "/internship0620/static/js/2.fbb578b9.chunk.js.map",
     "index.html": "/internship0620/index.html",
-    "precache-manifest.9e65d918cbff92be3590533b5ea3bf72.js": "/internship0620/precache-manifest.9e65d918cbff92be3590533b5ea3bf72.js",
+    "precache-manifest.ac57a4d512b1a64e9ac3ec5284f3928f.js": "/internship0620/precache-manifest.ac57a4d512b1a64e9ac3ec5284f3928f.js",
     "service-worker.js": "/internship0620/service-worker.js",
     "static/css/main.7965e947.chunk.css.map": "/internship0620/static/css/main.7965e947.chunk.css.map",
     "static/js/2.fbb578b9.chunk.js.LICENSE.txt": "/internship0620/static/js/2.fbb578b9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3f1c3f9b.js",
     "static/js/2.fbb578b9.chunk.js",
     "static/css/main.7965e947.chunk.css",
-    "static/js/main.2210e61d.chunk.js"
+    "static/js/main.2ffcf19e.chunk.js"
   ]
 }
