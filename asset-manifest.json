@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/internship0620/static/css/main.7965e947.chunk.css",
+    "main.js": "/internship0620/static/js/main.2d0111fc.chunk.js",
+    "main.js.map": "/internship0620/static/js/main.2d0111fc.chunk.js.map",
+    "runtime-main.js": "/internship0620/static/js/runtime-main.3f1c3f9b.js",
+    "runtime-main.js.map": "/internship0620/static/js/runtime-main.3f1c3f9b.js.map",
+    "static/js/2.fbb578b9.chunk.js": "/internship0620/static/js/2.fbb578b9.chunk.js",
+    "static/js/2.fbb578b9.chunk.js.map": "/internship0620/static/js/2.fbb578b9.chunk.js.map",
+    "index.html": "/internship0620/index.html",
+    "precache-manifest.f5909f353e61f20b355d00b417f22d28.js": "/internship0620/precache-manifest.f5909f353e61f20b355d00b417f22d28.js",
+    "service-worker.js": "/internship0620/service-worker.js",
+    "static/css/main.7965e947.chunk.css.map": "/internship0620/static/css/main.7965e947.chunk.css.map",
+    "static/js/2.fbb578b9.chunk.js.LICENSE.txt": "/internship0620/static/js/2.fbb578b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f1c3f9b.js",
+    "static/js/2.fbb578b9.chunk.js",
+    "static/css/main.7965e947.chunk.css",
+    "static/js/main.2d0111fc.chunk.js"
+  ]
+}
